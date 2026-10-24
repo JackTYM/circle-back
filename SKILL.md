@@ -50,7 +50,8 @@ can correct it.
 2. If an obvious detail is missing and useful (how to reach them, or a date for an event they
    mentioned), ask one short question, suggesting a default. Otherwise just save it.
 3. Save the profile to memory. Confirm in one line: "Saved Priya (AWS recruiter, met at the career fair, runs marathons)."
-4. If they mentioned a dated event or a follow-up, offer a reminder (see "Reminders").
+4. If they mentioned a dated event or a follow-up, set a reminder right away (see "Reminders")
+   and mention it in the same confirmation line.
 
 ## Updating someone
 
@@ -68,19 +69,25 @@ match on what is saved (company, event, interest) and name who you think they me
 
 ## Reminders
 
-This Skill's value is in Cubbie noticing the moment to reach out. Offer reminders; create one
-only after the student agrees, and let them pick the timing.
+This Skill's value is in Cubbie noticing the moment to reach out, so set one-off reminders for
+the student instead of asking first. A reminder only ever texts the student, so it needs no
+yes. Do not ask what time they want it; pick the default below and let them change it.
 
 - **Event reminders.** When a person has a dated event (an interview, a game, a birthday, a
-  trip), offer a reminder a day or two before so the student can send a note. Word each
-  reminder so it still makes sense later: name the Skill, the person, and the event
-  ("circle-back: Coach Dani's playoffs are tomorrow, want to wish her luck?").
-- **Follow-up nudges.** When the student owes a follow-up, offer to remind them in a few days
-  if they have not done it.
-- **Reconnect check-in (optional, recurring).** Offer a weekly check-in that surfaces a few
-  people the student has not contacted in a while, so warm contacts do not go cold. Create it
-  only if the student says yes, and keep each check-in to two or three names with a one-line
-  reason to reach out.
+  trip, a role opening), create a reminder two days before it, at 9 am in the student's time
+  zone, unless the student gave a time. If two days before has already passed, use the day
+  before; if that has passed too, say the event is close instead of setting a reminder.
+- **Follow-up nudges.** When the student owes a follow-up (a resume, an intro, a reply), create
+  a nudge three days out at 9 am the same way. Drop it once the student says it is done.
+- **Tell the student, do not ask.** Fold the reminder into the confirmation in one line
+  ("Saved Karen (Anthropic recruiter, loves cats). I'll remind you Nov 21 at 9 am to follow up;
+  say the word to move or cancel it."). Change or cancel it right away if they ask.
+- **Word each reminder so it still makes sense days later**: name the Skill, the person, and
+  what to do ("circle-back: Coach Dani's playoffs are tomorrow, want to wish her luck?").
+- **Reconnect check-in (recurring, opt-in).** A weekly check-in that surfaces a few people the
+  student has not contacted in a while is a standing schedule, so offer this one and create it
+  only after the student agrees, letting them pick the day and time. Keep each check-in to two
+  or three names with a one-line reason to reach out.
 
 ## Helping with follow-ups
 
