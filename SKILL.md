@@ -71,17 +71,23 @@ match on what is saved (company, event, interest) and name who you think they me
 
 This Skill's value is in Cubbie noticing the moment to reach out, so set one-off reminders for
 the student instead of asking first. A reminder only ever texts the student, so it needs no
-yes. Do not ask what time they want it; pick the default below and let them change it.
+yes. Do not ask what time they want it; pick a time that fits the event, as below, and let
+them change it. Never force a fixed hour.
 
-- **Event reminders.** When a person has a dated event (an interview, a game, a birthday, a
-  trip, a role opening), create a reminder two days before it, at 9 am in the student's time
-  zone, unless the student gave a time. If two days before has already passed, use the day
-  before; if that has passed too, say the event is close instead of setting a reminder.
-- **Follow-up nudges.** When the student owes a follow-up (a resume, an intro, a reply), create
-  a nudge three days out at 9 am the same way. Drop it once the student says it is done.
+- **Something the student attends at a set time** (a meeting, an interview, a coffee chat, a
+  game): remind them the evening before so they can prepare, and again about an hour before so
+  they show up. If it is tomorrow, skip the evening-before one.
+- **Something dated without a time** (an application opening, a birthday, a trip, a launch):
+  remind them two days before, at a daytime hour when they are not in class (Cubbie knows the
+  student's schedule). If two days before has passed, use the day before; if that has passed
+  too, say the event is close instead of setting a reminder.
+- **Follow-up nudges.** When the student owes a follow-up (a resume, an intro, a reply), set a
+  nudge three days out at a daytime hour the same way. Drop it once the student says it is done.
+- **Time zones.** Use the student's time zone. Assume a time the student gives is in their own
+  time zone unless they say otherwise; do not ask.
 - **Tell the student, do not ask.** Fold the reminder into the confirmation in one line
-  ("Saved Karen (Anthropic recruiter, loves cats). I'll remind you Nov 21 at 9 am to follow up;
-  say the word to move or cancel it."). Change or cancel it right away if they ask.
+  ("Noted Karen's meeting Tue Oct 27, 3 pm. I'll remind you Monday evening and an hour before;
+  say the word to move or cancel."). Change or cancel it right away if they ask.
 - **Word each reminder so it still makes sense days later**: name the Skill, the person, and
   what to do ("circle-back: Coach Dani's playoffs are tomorrow, want to wish her luck?").
 - **Reconnect check-in (recurring, opt-in).** A weekly check-in that surfaces a few people the
